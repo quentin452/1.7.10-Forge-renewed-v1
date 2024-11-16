@@ -2,9 +2,21 @@
 	"curse":
 	[
 		{
+			"addonId": 855466,
+			"fileId": 5906488,
+			"fileName": "optimizationsandtweaks-V1.14.0.jar",
+			"folder": "mods"
+		},
+		{
 			"addonId": 935217,
 			"fileId": 5396851,
 			"fileName": "thaumicboots-1.3.1.2.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": 441392,
+			"fileId": 5873837,
+			"fileName": "etfuturum-2.6.2.jar",
 			"folder": "mods"
 		},
 		{
@@ -15,8 +27,8 @@
 		},
 		{
 			"addonId": 957564,
-			"fileId": 5045355,
-			"fileName": "MoCreatures-Legacy-Beta-1.2.jar",
+			"fileId": 5140427,
+			"fileName": "MoCreatures-Legacy-Final-1.1.jar",
 			"folder": "mods"
 		},
 		{
@@ -63,8 +75,8 @@
 		},
 		{
 			"addonId":854528,
-			"fileId": 5014904,
-			"fileName": "IamacatHUDV0.2.jar",
+			"fileId": 5906557,
+			"fileName": "IamacatHUDV0.6.jar",
 			"folder": "mods",
 			"metadata": {
 				"side": "CLIENT"
@@ -72,8 +84,8 @@
 		},
 		{
 			"addonId":402981,
-			"fileId": 3035595,
-			"fileName": "hamsterrific-0.2.1.jar",
+			"fileId": 3035672,
+			"fileName": "hamsterrific-0.2.2.jar",
 			"folder": "mods"
 		},
 		{
@@ -516,8 +528,8 @@
 		},
 		{
 			"addonId":268548,
-			"fileId": 4733750,
-			"fileName": "[1.7.10] Tinker's Middleearth-1.3.8.jar",
+			"fileId": 5282874,
+			"fileName": "[1.7.10] Tinker's Middleearth-1.3.9.jar",
 			"folder": "mods"
 		},
 		{
@@ -570,8 +582,8 @@
 		},
 		{
 			"addonId":886305,
-			"fileId": 4633027,
-			"fileName": "ssmlegacy-mc1.7.10-1.2.1.jar",
+			"fileId": 5399486,
+			"fileName": "ssmlegacy-mc1.7.10-1.2.3.jar",
 			"folder": "mods"
 		},
 		{
@@ -594,8 +606,8 @@
 		},
 		{
 			"addonId":947269,
-			"fileId": 5036697,
-			"fileName": "Electroblob.s.Wizardry.-.1.1.6.-.MC.1.7.10fork5.jar",
+			"fileId": 5332580,
+			"fileName": "wizardry-1.7.10-1.1.6fork6.jar",
 			"folder": "mods"
 		},
 		{
@@ -630,8 +642,8 @@
 		},
 		{
 			"addonId": 896591,
-			"fileId": 4728250,
-			"fileName": "serializationisbad-1.5.jar"
+			"fileId": 5187152,
+			"fileName": "serializationisbad-1.5.2.jar"
 		},
 		{
 			"addonId": 614949,
@@ -749,8 +761,8 @@
 		},
 		{
 			"addonId": 431297,
-			"fileId": 5027275,
-			"fileName": "Thaumcraft4Tweaks-1.5.20.jar",
+			"fileId": 5383323,
+			"fileName": "Thaumcraft4Tweaks-1.5.24.jar",
 			"folder": "mods"
 		},
 		{
@@ -794,8 +806,8 @@
 		},
 		{
 			"addonId": 317780,
-			"fileId": 4905612,
-			"fileName": "XaerosWorldMap_1.14.1.30_Forge_1.7.10.jar",
+			"fileId": 5658209,
+			"fileName": "XaerosWorldMap_1.14.1.32_Forge_1.7.10.jar",
 			"folder": "mods"
 		},
 		{
@@ -863,8 +875,8 @@
 		},
 		{
 			"addonId": 389886,
-			"fileId": 4824018,
-			"fileName": "[1.7.10] The Rings of Power v23.10.29.jar"
+			"fileId": 5545822,
+			"fileName": "[1.7.10] The Rings of Power 24.07.19 (Forge).jar"
 		},
 		{
 			"addonId": 230674,
@@ -933,8 +945,8 @@
 		},
 		{
 			"addonId": 876284,
-			"fileId": 4913287,
-			"fileName": "AdvancedBackups-forge-1.7.10-3.4.jar"
+			"fileId": 5901134,
+			"fileName": "AdvancedBackups-forge-1.7.10-3.6.4.jar"
 		},
 		{
 			"addonId": 224117,
@@ -1400,8 +1412,8 @@
 		},
 		{
 			"addonId": 927564,
-			"fileId": 5035679,
-			"fileName": "zume-0.10.0.jar",
+			"fileId": 5861244,
+			"fileName": "zume-1.1.4.jar",
 			"metadata": {
 				"side": "CLIENT"
 			}
@@ -1438,8 +1450,8 @@
 		},
 		{
 			"addonId": 844484,
-			"fileId": 4990503,
-			"fileName": "chunkapi-mc1.7.10-0.5.0.jar"
+			"fileId": 5886355,
+			"fileName": "chunkapi-mc1.7.10-0.5.2.jar"
 		},
 		{
 			"addonId": 242568,
@@ -1645,8 +1657,8 @@
 		},
 		{
 			"addonId": 318012,
-			"fileId": 4439553,
-			"fileName": "DefaultSettings-1.7.10+1.12.2-4.0.5-Forge.jar",
+			"fileId": 5141051,
+			"fileName": "DefaultSettings-1.7.10+1.12.2-4.0.7-Forge.jar",
 			"metadata": {
 				"side": "CLIENT"
 			}
@@ -1737,14 +1749,6 @@
 			"addonId": 236045,
 			"fileId": 2259220,
 			"fileName": "easybreading-1.7.10-2.0.3.jar"
-		},
-		{
-			"addonId": 907016,
-			"fileId": 4732949,
-			"fileName": "EC-Unofficial-1.0.1.jar",
-			"metadata": {
-				"side": "CLIENT"
-			}
 		},
 		{
 			"addonId": 348932,
@@ -1912,9 +1916,9 @@
 			"fileName": "ExtraTiC-1.7.10-1.4.6.jar"
 		},
 		{
-			"addonId": 225561,
-			"fileId": 2264383,
-			"fileName": "extrautilities-1.2.12.jar"
+			"addonId": 939770,
+			"fileId": 5084485,
+			"fileName": "ExtraUtilities-1.2.12.2.jar"
 		},
 		{
 			"addonId": 274356,
@@ -2570,18 +2574,18 @@
 		},
 		{
 			"addonId": 399904,
-			"fileId": 5072308,
-			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.35-Core.jar"
+			"fileId": 5826329,
+			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.41-Core.jar"
 		},
 		{
 			"addonId": 813408,
-			"fileId": 5072305,
-			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.35-Generators.jar"
+			"fileId": 5826328,
+			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.41-Generators.jar"
 		},
 		{
 			"addonId": 813407,
-			"fileId": 5072300,
-			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.35-Tools.jar"
+			"fileId": 5826326,
+			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.41-Tools.jar"
 		},
 		{
 			"addonId": 247095,
@@ -2782,8 +2786,8 @@
 		},
 		{
 			"addonId": 353994,
-			"fileId": 2838405,
-			"fileName": "wisla-1.0.0.jar",
+			"fileId": 5424795,
+			"fileName": "wisla-1.2.0.jar",
 			"metadata": {
 				"side": "CLIENT"
 			}
@@ -3521,8 +3525,8 @@
 		},
 		{
 			"addonId": 434899,
-			"fileId": 4357791,
-			"fileName": "Titanpower-1.7.10-1.6.7.jar"
+			"fileId": 5678651,
+			"fileName": "Titanpower-1.7.10-1.6.8.jar"
 		},
 		{
 			"addonId": 225556,
@@ -3719,8 +3723,35 @@
 		},
 		{
 			"addonId": 826970,
-			"fileId": 4982116,
-			"fileName": "+unimixins-all-1.7.10-0.1.15.jar"
+			"fileId": 5858384,
+			"fileName": "+unimixins-all-1.7.10-0.1.19.jar"
+		},
+		{
+			"addonId": 448233,
+			"fileId": 5351930,
+			"fileName": "entityculling-1.6.4-mc1.7.10.jar",
+			"folder": "mods",
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"addonId": 1031274,
+			"fileId": 5903303,
+			"fileName": "neodymium-mc1.7.10-0.4.0-unofficial.jar",
+			"folder": "mods",
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"addonId": 229302,
+			"fileId": 2414751,
+			"fileName": "BetterLoadingScreen-1.3.10.jar",
+			"folder": "mods",
+			"metadata": {
+				"side": "CLIENT"
+			}
 		}
 	]
 }
