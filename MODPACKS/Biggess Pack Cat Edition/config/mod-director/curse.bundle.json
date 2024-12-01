@@ -3,8 +3,8 @@
 	[
 		{
 			"addonId": 855466,
-			"fileId": 5917622,
-			"fileName": "optimizationsandtweaks-V1.14.2.jar",
+			"fileId": 5952103,
+			"fileName": "optimizationsandtweaks-V1.14.4.jar",
 			"folder": "mods"
 		},
 		{
@@ -75,8 +75,8 @@
 		},
 		{
 			"addonId":854528,
-			"fileId": 5906557,
-			"fileName": "IamacatHUDV0.6.jar",
+			"fileId": 5921178,
+			"fileName": "IamacatHUDV0.7.jar",
 			"folder": "mods",
 			"metadata": {
 				"side": "CLIENT"

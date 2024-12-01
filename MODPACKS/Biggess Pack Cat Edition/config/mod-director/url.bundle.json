@@ -2,6 +2,9 @@
 	"url":
 	[
 		{
+			"url": "https://github.com/basdxz/LeafCulling/releases/download/1.1.0/LeafCulling-mc1.7.10-1.1.0.dirty.jar"
+		},
+		{
 			"url": "https://github.com/FalsePattern/FalsePatternLib/releases/download/1.4.6/falsepatternlib-mc1.7.10-1.4.6.jar"
 		},
 		{
@@ -123,7 +126,7 @@
 			"url": "https://github.com/GTNewHorizons/HungerOverhaul/releases/download/1.1.0-GTNH/HungerOverhaul-1.1.0-GTNH.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.44-GTNH/NotEnoughItems-2.6.44-GTNH.jar"
+			"url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.47-GTNH/NotEnoughItems-2.6.47-GTNH.jar"
 		},
 		{
 			"url": "https://github.com/quentin452/Aura-Cascade/releases/download/559/AuraCascade-559.jar"
@@ -301,7 +304,7 @@
 			"url": "https://github.com/GTNewHorizons/bdlib/releases/download/1.10.0-GTNH/bdlib-1.10.0-GTNH.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta18/angelica-1.0.0-beta18.jar",
+			"url": "https://github.com/quentin452/Angelica-Biggess-Pack-Cat-Edition/releases/download/1.0.0-beta23fork1/angelica-1.0.0-beta23-fork1.jar",
 			"metadata": {
 				"side": "CLIENT"
 			}
@@ -385,7 +388,7 @@
 			"url": "https://github.com/Taskeren/ElytraMining/releases/download/1.2.0.1/elytra_mining-1.7.10-1.2.0.1.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.3.1/endercore-0.3.1.jar"
+			"url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar"
 		},
 		{
 			"url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.21/EnderIO-2.8.21.jar"
