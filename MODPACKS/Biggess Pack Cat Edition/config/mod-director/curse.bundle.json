@@ -3,8 +3,8 @@
 	[
 		{
 			"addonId": 855466,
-			"fileId": 5952103,
-			"fileName": "optimizationsandtweaks-V1.14.4.jar",
+			"fileId": 6032241,
+			"fileName": "optimizationsandtweaks-V1.14.5.jar",
 			"folder": "mods"
 		},
 		{
@@ -51,8 +51,8 @@
 		},
 		{
 			"addonId": 961371,
-			"fileId": 5028011,
-			"fileName": "BiggessPackTweak-V1.1.jar",
+			"fileId": 6030226,
+			"fileName": "BiggessPackTweak-V1.2.1.jar",
 			"folder": "mods"
 		},
 		{
@@ -75,8 +75,8 @@
 		},
 		{
 			"addonId":854528,
-			"fileId": 5921178,
-			"fileName": "IamacatHUDV0.7.jar",
+			"fileId": 5966879,
+			"fileName": "IamacatHUDV0.8.jar",
 			"folder": "mods",
 			"metadata": {
 				"side": "CLIENT"
@@ -359,12 +359,6 @@
 			"folder": "mods"
 		},
 		{
-			"addonId":248871,
-			"fileId": 2323251,
-			"fileName": "Colored+Iron Version 1.0.jar",
-			"folder": "mods"
-		},
-		{
 			"addonId":227001,
 			"fileId": 2228952,
 			"fileName": "CondensedFoods - 1.7.10 - 1.2.jar",
@@ -422,12 +416,6 @@
 			"addonId":240468,
 			"fileId": 2373459,
 			"fileName": "MahMeat-1.7.10-1.0.2-backport.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId":233370,
-			"fileId": 2249891,
-			"fileName": "ne-1.7.10-15.5.21-R1.0.jar",
 			"folder": "mods"
 		},
 		{
@@ -670,12 +658,6 @@
 			"folder": "mods"
 		},
 		{
-			"addonId": 936617,
-			"fileId": 4862496,
-			"fileName": "ADFix-1.0.0.jar",
-			"folder": "mods"
-		},
-		{
 			"addonId": 667254,
 			"fileId": 3963264,
 			"fileName": "PreventCrappyLauncher-2.0-retro.jar",
@@ -736,12 +718,6 @@
 			"addonId": 238392,
 			"fileId": 2268718,
 			"fileName": "thaumicSanity-1.0-1.7.10-9.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 225095,
-			"fileId": 2241913,
-			"fileName": "thaumcraftneiplugin-1.7.10-1.7a.jar",
 			"folder": "mods"
 		},
 		{
@@ -2620,11 +2596,6 @@
 			"fileName": "MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar"
 		},
 		{
-			"addonId": 222378,
-			"fileId": 2214959,
-			"fileName": "MineMenu-1.7.10-1.2.0.B44-universal.jar"
-		},
-		{
 			"addonId": 231048,
 			"fileId": 2306961,
 			"fileName": "minestones-1.7.10-MS1.0.2.jar"
@@ -2848,11 +2819,6 @@
 			"fileName": "parachronology-0.1.6-universal.jar"
 		},
 		{
-			"addonId": 317753,
-			"fileId": 2794803,
-			"fileName": "ParallelWorld.jar"
-		},
-		{
 			"addonId": 242878,
 			"fileId": 2287047,
 			"fileName": "Patcher.jar"
@@ -2954,11 +2920,6 @@
 			"addonId": 316202,
 			"fileId": 2682350,
 			"fileName": "ProjectPower-1.2.jar"
-		},
-		{
-			"addonId": 231037,
-			"fileId": 2240852,
-			"fileName": "ProjectS~1.20{1.7.10}.jar"
 		},
 		{
 			"addonId": 729362,
@@ -3276,11 +3237,6 @@
 			"addonId": 222624,
 			"fileId": 2209457,
 			"fileName": "SimpleEnderThings-MC1.7.10-1.2.1.jar"
-		},
-		{
-			"addonId": 232134,
-			"fileId": 2309399,
-			"fileName": "SimpleLabels-1.7.10-1.0-9.jar"
 		},
 		{
 			"addonId": 79325,

@@ -35,7 +35,7 @@
 			"url": "https://github.com/GTNewHorizons/HelpFixer/releases/download/1.3.0/HelpFixer-1.3.0.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.20/gtnhlib-0.5.20.jar"
+			"url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.0/gtnhlib-0.6.0.jar"
 		},
 		{
 			"url": "https://github.com/GTNewHorizons/TravellersGearNeo/releases/download/1.2.2/travellersgearneo-1.2.2.jar"
@@ -59,10 +59,6 @@
 		{
 			"url": "https://download1531.mediafire.com/sywa2zoezvkgTjDFkEBEE9N06PVKDmBU2C2IV0nwzsYBbymGIwtDDhztyBd0l-ZIB8NhT9mS9Ia_z1ylhw1p74YQqPnxVJvNIoHnx7QyWFNZfGxvo9lMOwjghLK3lBWvcy3yDyHynT1aRU4RZIQCNjDbhS1W-7vB6im8sKJYaC4/qvm79r056535zlx/HEGM+1.7.10+Update+1.jar",
 			"fileName": "HEGM 1.7.10 Update 1.jar"
-		},
-		{
-			"url": "https://github.com/quentin452/Floorballcraft-reup/releases/download/V1.0/FloorBallCraft-Mod-1.7.10.jar",
-			"fileName": "FloorBallCraft-Mod-1.7.10.jar"
 		},
 		{
 			"url": "https://github.com/quentin452/M-Ms-Mod-Reup/releases/download/V1.0/M.Ms-Mod-1.7.10.jar",
@@ -129,7 +125,7 @@
 			"url": "https://github.com/GTNewHorizons/HungerOverhaul/releases/download/1.1.0-GTNH/HungerOverhaul-1.1.0-GTNH.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.47-GTNH/NotEnoughItems-2.6.47-GTNH.jar"
+			"url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.7-GTNH-pre/NotEnoughItems-2.7.7-GTNH-pre.jar"
 		},
 		{
 			"url": "https://github.com/quentin452/Aura-Cascade/releases/download/559/AuraCascade-559.jar"
@@ -153,7 +149,7 @@
 			"url": "https://github.com/quentin452/Coral-Reef-Continuation/releases/download/fork1/Coral-Reef-Mod-1.7.10-Scuba-Divingfork1.jar"
 		},
 		{
-			"url": "https://github.com/quentin452/The-Lord-of-the-Rings/releases/download/v36.29/LOTRModfork.v36.29.jar"
+			"url": "https://github.com/quentin452/The-Lord-of-the-Rings/releases/download/v36.30/LOTRModfork.v36.30.jar"
 		},
 		{
 			"url": "https://github.com/GTMEGA/EndlessIDs/releases/download/1.5.6/endlessids-mc1.7.10-1.5.6.jar"
@@ -231,7 +227,7 @@
 			"url": "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.3.7-GTNH/CookingForBlockheads-1.3.7-GTNH.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.6.35/TwilightForest-2.6.35.jar"
+			"url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.1/TwilightForest-2.7.1.jar"
 		},
 		{
 			"url": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.0/TiCTooltips-1.3.0.jar"
@@ -307,7 +303,7 @@
 			"url": "https://github.com/GTNewHorizons/bdlib/releases/download/1.10.0-GTNH/bdlib-1.10.0-GTNH.jar"
 		},
 		{
-			"url": "https://github.com/quentin452/Angelica-Biggess-Pack-Cat-Edition/releases/download/1.0.0-beta23fork1/angelica-1.0.0-beta23-fork1.jar",
+			"url": "https://github.com/quentin452/Angelica-Biggess-Pack-Cat-Edition/releases/download/1.0.0-beta28fork2/angelica-1.0.0-beta28fork2.jar",
 			"metadata": {
 				"side": "CLIENT"
 			}
@@ -592,7 +588,7 @@
 			"url": "https://github.com/GTNewHorizons/WanionLib/releases/download/1.9.0/WanionLib-1.9.0.jar"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/WAWLA/releases/download/1.2.0-GTNH/Wawla-1.2.0-GTNH.jar"
+			"url": "https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.0-GTNH/Wawla-1.3.0-GTNH.jar"
 		},
 		{
 			"url": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.7/WirelessCraftingTerminal-1.11.7.jar"
@@ -602,13 +598,19 @@
 			"folder": "mods/1.7.10"
 		},
 		{
-			"url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.10/CodeChickenCore-1.3.10.jar"
+			"url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.0/CodeChickenCore-1.4.0.jar"
 		},
 		{
 			"url": "https://github.com/quentin452/Additional-Buildcraft-Objects/releases/download/release4.0.14/ABO-MC1.7.10-BC7.1release4.0.14.jar"
 		},
 		{
 			"url": "https://github.com/TCLProject/TileEntityResetFix/releases/download/1.0.1-noreq/TileEntityResetFix-1.0.1-noreq.jar"
+		},
+		{
+			"url": "https://github.com/quentin452/SimpleLabelsContinuation/releases/download/1.7.10-1.0-9fork1/SimpleLabels-1.7.10-1.0-9fork1.jar"
+		},
+		{
+			"url": "https://github.com/quentin452/Achievement-detection-fix-withoutmysteriumLib/releases/download/1.0.0-without-mysteriumlib/ADFix-1.0.0-without-mysteriumlib.jar"
 		}
 	]
 }
